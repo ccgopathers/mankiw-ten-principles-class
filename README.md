@@ -2,6 +2,8 @@
 
 An interactive, classroom-friendly guide to Mankiw's ten principles of economics. Click any illustration to see a concise explanation and a relatable example.
 
+**Live site:** https://ccgopathers.github.io/mankiw-ten-principles-class/
+
 ## Preview locally
 
 ```bash
@@ -23,4 +25,3 @@ Then open `http://localhost:4173`.
 - `dist/` — deployable static website
 - `dist/assets/` — principle illustrations
 - `tokens.css` — shared design tokens
-
